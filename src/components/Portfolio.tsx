@@ -50,7 +50,7 @@ const proyectos = [
     url: "https://portfolio-react-lake-one.vercel.app/",
     color: "#082018",
     accent: "#3bf6f0",
-    descripcion: "Landing page para Desarrollador freelance. Diseño oscuro y profesional.aaa",
+    descripcion: "Landing page para Desarrollador freelance. Diseño oscuro y profesional.",
     tags: ["React", "Tailwind.css", "Responsive", "Next.js"],
     pronto: false,
   },
