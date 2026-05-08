@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "InstaWeb — Páginas que generan resultados",
   description: "Agencia de diseño web especializada en landing pages profesionales. Transformamos tu negocio con páginas que convierten visitas en clientes.",
   verification: {
-    google: "ACA_VA_TU_CODIGO",
+    google: "osAIYA_3QVOLkLVUy9rPMijnoKhFBIWGKWl-uykfSQs",
   },
 };
 
