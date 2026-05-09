@@ -18,6 +18,8 @@ export default function RootLayout({
     <html lang="es">
       <head>
         <link rel="icon" href="/favicon.png" />
+        <link rel="shortcut icon" href="/favicon.png" />
+        <link rel="apple-touch-icon" href="/favicon.png" />
       </head>
       <body className="noise">{children}</body>
     </html>
