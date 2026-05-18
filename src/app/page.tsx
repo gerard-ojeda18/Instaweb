@@ -6,6 +6,7 @@ import { Servicios } from "@/components/Servicios";
 import { Portfolio } from "@/components/Portfolio";
 import { Nosotros } from "@/components/Nosotros";
 import { Contacto } from "@/components/Contacto";
+import { FAQ } from "@/components/FAQ";
 import { Footer } from "@/components/Footer";
 
 export default function Home() {
@@ -99,6 +100,7 @@ export default function Home() {
         <Portfolio />
         <Nosotros />
         <Contacto />
+        <FAQ />
       </main>
       <Footer />
 
