@@ -16,6 +16,7 @@ export function Navbar() {
     { label: "Servicios", href: "#servicios" },
     { label: "Trabajos", href: "#portfolio" },
     { label: "Nosotros", href: "#nosotros" },
+    { label: "FAQ", href: "#faq" },
   ];
 
   const logoTextStyle: CSSProperties = {

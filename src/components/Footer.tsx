@@ -17,7 +17,7 @@ export function Footer() {
         </div>
 
         <div style={{ display: "flex", gap: 20, flexWrap: "wrap" }} className="footer-links">
-          {["#servicios", "#portfolio", "#nosotros", "#contacto"].map((href) => (
+          {["#servicios", "#portfolio", "#nosotros", "#faq", "#contacto"].map((href) => (
             <a
               key={href}
               href={href}
