@@ -17,7 +17,7 @@ const preguntas = [
   },
   {
     pregunta: "¿Que pasa con el dominio?",
-    respuesta: "El dominio (.com, .com.ar, etc.) se abona por separado. Te ayudamos a elegirlo y configurarlo. El costo anual es aproximadamente $15.000 - $25.000 dependiendo de la extension.",
+    respuesta: "El dominio (.com, .com.ar, etc.) se abona por separado. Te ayudamos a elegirlo y configurarlo. El costo anual es dependiendo de la extension.",
   },
   {
     pregunta: "¿Las paginas son responsive?",
@@ -33,7 +33,7 @@ const preguntas = [
   },
   {
     pregunta: "¿Ofrecen mantenimiento?",
-    respuesta: "El primer mes de cambios menores esta incluido. Luego ofrecemos planes de mantenimiento opcionales o cambios puntuales a convenir.",
+    respuesta: "Incluimos 3 meses de soporte técnico sin costo adicional para ajustes menores, corrección de errores y consultas generales. Luego ofrecemos planes de mantenimiento opcionales o cambios puntuales a convenir.",
   },
 ];
 
